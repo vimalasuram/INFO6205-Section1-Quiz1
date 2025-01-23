@@ -1,6 +1,6 @@
 Repository for the Week 1 Quiz of INFO 6205 (Section 1) (Spring 2025)
 
-# Quiz 1 - Time limit 25 min
+# Quiz 1 - Time limit 25 min (Python)
 
 ## How to submit
 
@@ -10,14 +10,11 @@ Repository for the Week 1 Quiz of INFO 6205 (Section 1) (Spring 2025)
 
 ## Instructions
 
-- You may either use Java or Python for this quiz. You need to implement in one language only.
+- You must use Python for this quiz.
 - Maximum marks for this quiz is 50. If extra time is needed or quiz is completed at home, maximum marks are reduced to 30.
 - The structure of this project is as follows:
 
 ```
-├── java
-│   ├── src/main/java/org/example/BubbleSort.java (Java implementation)
-│   └── src/test/java/org/example/BubbleSortTest.java (Java Tests)
 ├── py
 │   ├── BubbleSort.py (Python Implementation)
 │   ├── BubbleSortTest.py (Python Tests)
@@ -30,17 +27,9 @@ Repository for the Week 1 Quiz of INFO 6205 (Section 1) (Spring 2025)
 
 ## How to run the tests
 
-### Java
-
-1. Navigate to the `java` folder.
-2. Compile the test file: `mvn compile`.
-3. Run the tests using Maven: `mvn test`.
-
-### Python
-
 1. Navigate to the `py` folder.
 2. Run the tests using the command: `python -m unittest BubbleSortTest.py`.
 
 ## Problem Statement
 
-Implement the `Sort` method of the `BubbleSort` class.
+Implement the `bubble_sort` method
