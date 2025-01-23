@@ -5,8 +5,8 @@ Repository for the Week 1 Quiz of INFO 6205 (Section 1) (Spring 2025)
 ## How to submit
 
 - **Fork this repository, implement your code on your fork, and make sure to push to your own fork when you're done**.
-- **Add [saxena.aksh@northeastern.edu], [gunjal.ga@northeastern.edu] as collaborators to your fork**.
 - **Your last commit time will be recorded as your submission time**.
+- **Submit the URL on Canvas**
 
 ## Instructions
 
